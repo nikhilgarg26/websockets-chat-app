@@ -1,3 +1,5 @@
 # websockets-chat-app
+A simple websocket based chat server interacting using HTML
 
-hello world
+# Steps to install
+<git clone >
